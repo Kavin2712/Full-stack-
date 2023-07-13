@@ -1,0 +1,31 @@
+body {
+  background-image: url('https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&w=400');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+header {
+  background-color: #86a581a2;
+  color: #fff;
+  padding: 40px;
+  text-align: right;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
